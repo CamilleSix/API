@@ -9,7 +9,7 @@ $rapidApiHost[1] = [
     "url" => "https://instagram-data1.p.rapidapi.com/user/feed?username=".$cronData['instagramUserName'],
     "header" => [
         "x-rapidapi-host: instagram-data1.p.rapidapi.com",
-        "x-rapidapi-key: f81b69ce42msh9cac1569d139610p1fefe7jsnd0c5141ba97d"
+        "x-rapidapi-key: **"
     ]
 ] ;
 $rapidApiHost[2] = [
@@ -17,7 +17,7 @@ $rapidApiHost[2] = [
     "url"=> "https://instagram39.p.rapidapi.com/getFeed?user_id=".$cronData['instagramId'],
     "header" => [
         "x-rapidapi-host: instagram39.p.rapidapi.com",
-        "x-rapidapi-key: f81b69ce42msh9cac1569d139610p1fefe7jsnd0c5141ba97d"
+        "x-rapidapi-key: **"
     ]
 ] ;
 
